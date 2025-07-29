@@ -5,8 +5,6 @@ Speech‑Commands word spotting on 105 k clips / 35 classes with 1 600‑d
 
 ---
 
-# Speech Commands MLP
-
 ## 🎯 Goal
 Build a lightweight pipeline that recognises a single spoken word (out of 35) in Google’s Speech Commands dataset, relying on compact MLPs instead of heavier CNN architectures.
 
