@@ -1,6 +1,5 @@
 # Speech Commands Recognition
 
-<!-- Short repo description (≤ 350 characters) -->
 Speech‑Commands word spotting on 105 k clips / 35 classes with 1 600‑dim spectrograms. Compares mean‑var, MaxAbs & L2 normalisation and several MLP topologies; best model (1600‑140‑70‑35, LR 0.001, batch 100) tops 90 % test accuracy with detailed confusion‑matrix analysis.
 
 ---
